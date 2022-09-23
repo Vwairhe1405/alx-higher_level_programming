@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author: JDRZ
+# Author: Vwairhe
 
 
 if __name__ == "__main__":
